@@ -1,2 +1,6 @@
 "Hello i am file0" 
+<<<<<<< HEAD
 i already bug fix;
+=======
+i am already bugfixed
+>>>>>>> bugfix
